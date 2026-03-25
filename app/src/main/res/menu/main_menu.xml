@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <item
+        android:id="@+id/action_sort"
+        android:title="Sort"
+        app:showAsAction="never">
+        <menu>
+            <item android:id="@+id/sort_title"  android:title="By Title" />
+            <item android:id="@+id/sort_date"   android:title="By Date Added" />
+            <item android:id="@+id/sort_genre"  android:title="By Genre" />
+            <item android:id="@+id/sort_artist" android:title="By Artist" />
+            <item android:id="@+id/sort_album"  android:title="By Album" />
+            <item android:id="@+id/sort_year"   android:title="By Year" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_choose_folder"
+        android:title="Choose Folder"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_reset_folder"
+        android:title="All Folders"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_scan"
+        android:title="Refresh Library"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_filter_codec"
+        android:title="Filter by Codec"
+        app:showAsAction="never" />
+
+</menu>

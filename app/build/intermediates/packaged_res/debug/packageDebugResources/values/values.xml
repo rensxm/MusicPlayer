@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#BB86FC</color>
+    <color name="accent_dim">#7B5EA7</color>
+    <color name="bg_card">#22223A</color>
+    <color name="bg_dark">#0F0F14</color>
+    <color name="bg_surface">#1A1A24</color>
+    <color name="colorOnPrimary">#000000</color>
+    <color name="colorPrimary">#BB86FC</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9E9EA8</color>
+    <string name="app_name">Music Player</string>
+    <style name="Theme.MusicPlayer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_surface</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+    </style>
+</resources>

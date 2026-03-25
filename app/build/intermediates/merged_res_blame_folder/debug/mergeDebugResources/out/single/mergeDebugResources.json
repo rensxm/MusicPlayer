@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_ic_repeat.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/ic_repeat.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/menu_main_menu.xml.flat",
+        "source": "com.musicplayer.app-main-43:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_ic_pause.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.musicplayer.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_ic_add.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_ic_skip_previous.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/ic_skip_previous.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_ic_play.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/layout_activity_player.xml.flat",
+        "source": "com.musicplayer.app-main-43:/layout/activity_player.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_ic_shuffle.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/ic_shuffle.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/xml_file_paths.xml.flat",
+        "source": "com.musicplayer.app-main-43:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/layout_item_track.xml.flat",
+        "source": "com.musicplayer.app-main-43:/layout/item_track.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_ic_search.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_bg_genre_chip.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/bg_genre_chip.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_ic_playlist.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/ic_playlist.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.musicplayer.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "com.musicplayer.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_ic_music_note_large.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/ic_music_note_large.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/layout_activity_playlist.xml.flat",
+        "source": "com.musicplayer.app-main-43:/layout/activity_playlist.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_bg_play_button.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/bg_play_button.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/layout_item_playlist.xml.flat",
+        "source": "com.musicplayer.app-main-43:/layout/item_playlist.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_ic_music_note.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/ic_music_note.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_ic_repeat_one.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/ic_repeat_one.xml"
+    },
+    {
+        "merged": "com.musicplayer.app-debug-41:/drawable_ic_skip_next.xml.flat",
+        "source": "com.musicplayer.app-main-43:/drawable/ic_skip_next.xml"
+    }
+]
